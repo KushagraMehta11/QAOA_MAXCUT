@@ -32,7 +32,7 @@ This notebook applies the ADAM optimizer to the Max-Cut problem. It involves:
 
 ### max_cut_IPG_optimizer.ipynb
 
-This notebook implements the Interior Point Gradient (IPG) optimization technique for the Max-Cut problem. It covers:
+This notebook implements the Interatively Pre-Descent Gradient (IPG) optimization technique for the Max-Cut problem. It covers:
 
 - Formulating the Max-Cut problem in a way that can be tackled by the IPG optimizer.
 - Implementing the IPG algorithm to optimize the cut value under specific constraints.
