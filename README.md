@@ -1,4 +1,4 @@
-# Max-Cut Problem Optimizers
+# Max-Cut Problem and Traveling Salesman Problem Optimizers
 
 This repository contains two Jupyter notebooks that explore optimization techniques for solving the Max-Cut problem using different optimizers. The Max-Cut problem is a classic combinatorial optimization problem, and these notebooks apply different strategies to find solutions efficiently.
 
