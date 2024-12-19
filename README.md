@@ -49,7 +49,4 @@ Ensure you have the following Python packages installed:
 - `cvxpy` (for the IPG optimizer)
 - `tensorflow` (for the ADAM optimizer)
 
-You can install these packages using pip:
 
-```bash
-pip install numpy scipy matplotlib networkx cvxpy tensorflow
